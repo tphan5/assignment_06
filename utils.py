@@ -161,6 +161,7 @@ def random_points(n):
 
     return listOfPoints
 
+
 def critical_points(list):
 
     minNum = min(list)
