@@ -1,7 +1,3 @@
-import math
-import unittest
-import sys
-import os
 from utils import check_coincident
 
 
